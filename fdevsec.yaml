@@ -12,4 +12,4 @@ languages:
   - php
 
 fail_pipeline:
-  risk_rating: 7
+  risk_rating: 5
